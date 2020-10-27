@@ -25,7 +25,7 @@ click==7.1.2
 command-not-found==0.3
 conda==4.3.16
 constantly==15.1.0
-cryptography==2.9.2
+cryptography==3.2
 cupshelpers==1.0
 cycler==0.10.0
 daphne==2.5.0
