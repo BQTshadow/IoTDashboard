@@ -127,7 +127,7 @@ pexpect==4.2.1
 pgadmin4==4.23
 pickleshare==0.7.5
 Pillow==7.2.0
-pipenv==2020.6.2
+pipenv==2022.1.8
 plumber==1.6
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
