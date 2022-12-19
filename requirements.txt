@@ -124,7 +124,7 @@ parso==0.7.0
 passlib==1.7.2
 pbr==5.4.5
 pexpect==4.2.1
-pgadmin4==4.23
+pgadmin4==6.17
 pickleshare==0.7.5
 Pillow==7.2.0
 pipenv==2020.6.2
